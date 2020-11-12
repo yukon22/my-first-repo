@@ -1,25 +1,19 @@
-# This is a large heading
+# KYRGYZSTAN
 
-## This is a smaller heading
+### Bishkek
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poets pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+Bishkek is a capital of Kyrgyzstan  and situated in the north part of Kyrgyz Republic, in the middle of Tien-Shan mountains.
 
-- This is
-- an unordered
-- list
+### Regions
 
-1. This is
-2. an ordered
-3. list
+7 regions in the republic:
 
-Here is `some code` in the middle of a sentence.
+- *Naryn* region
+- *Talas* region
+- and others
 
-```
-This is
-a block
-of code
-```
+### Food
+Foods are:
+1. Chuchuk.
+2. Beshbsrmak.
 
